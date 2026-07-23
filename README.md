@@ -1,4 +1,4 @@
-# NayarIA---RH
+# NayarIA RH
 
 ## Este projeto é uma IA que prevê promoções de funcionários com base em dados pré-existentes.
 
