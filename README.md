@@ -6,7 +6,7 @@
 - Aprendizado Supervisionado (Árvores de Decisão com Scikit-Learn).
 - Separação de Dados com train_test_split para evitar vazamento de respostas (Treino vs. Teste).
 - Controle de Aleatoriedade (random_state) para testes consistentes.
-- Prevenção de Overfitting limitando a complexidade da árvore.
+- Prevenção de Overfitting limitando a complexidade da árvore. (conceito opcional dentro do código)
 
 ### 2. Feats (Funcionalidades):
 - **Interface de Linha de Comando (CLI) Interativa:** Saídas no terminal formatadas e coloridas para melhorar a experiência do usuário.
