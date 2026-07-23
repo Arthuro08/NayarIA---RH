@@ -1,6 +1,6 @@
 # NayarIA---RH
 
-##Este projeto é uma IA que prevê promoções de funcionários com base em dados pré-existentes.
+## Este projeto é uma IA que prevê promoções de funcionários com base em dados pré-existentes.
 
 ### 1. Conceitos utilizados:
 - Aprendizado Supervisionado (Árvores de Decisão com Scikit-Learn).
